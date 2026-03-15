@@ -1,4 +1,5 @@
 # Zomato Restaurant Clustering using Data Science
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinayPandey185/Zomato-Restaurant-Clustering-DataScience/blob/main/Zomato_DataScience_Project.ipynb)
 
 ## Project Overview
 This project analyzes Zomato restaurant data using data science and machine learning techniques.
